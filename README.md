@@ -1,6 +1,6 @@
 # HOW TO USE
 
-    `$ sh run.sh`
+    $ sh run.sh
 
 Installing termux extra keys is complete!
 
@@ -11,8 +11,8 @@ you must read more ..
 
 You need text editor to edit the file termux.properties
 
-    `$ pkg install micro`
-    `$ micro ~/.termux/termux.properties`
+    $ pkg install micro
+    $ micro ~/.termux/termux.properties
 
 And then, now you can configure termux extra keys 
 according to your needs.
@@ -50,6 +50,6 @@ After that, you need to save and reload your configuration
 `Ctrl+s` for save your configuration, and `Ctrl+q` for quit.
 Next reload your configuration:
 
-    `$ termux-reload-settings` 
+    $ termux-reload-settings
 
-### Done!
+# Done!
