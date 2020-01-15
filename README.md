@@ -17,6 +17,11 @@ You need text editor to edit the file termux.properties
 And then, now you can configure termux extra keys 
 according to your needs.
 
+### Or you can edit termux.properties on this folder (an easy way)
+
+    $ micro termux.properties # (edit termux extra keys)
+    $ sh run.sh # (after that, apply config)
+
 ## Possibility Keys
 
 Copy the key without quotes, because you need common single quote, 
