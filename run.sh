@@ -6,7 +6,7 @@ b="\033[1;34m" #blue
 n="\033[0m" #normal
 
 CREDIT="MShidiq"
-GITHUB="https://github.com/MShidiq "
+GITHUB="https://github.com/MShidiq  "
 
 sleep 1s
 echo $o "#######################################################"
@@ -18,9 +18,6 @@ echo $g " You can edit letter, step by step"
 echo $g " is on" $b " README.md"
 echo $o "#######################################################"
 sleep 3s
-
-echo $r " Cleaning old configuration .."
-rm -rf ~/.termux
 
 sleep 1.5s
 echo $r " Making the directory .."
